@@ -6,7 +6,6 @@ import org.hibernate.Transaction;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import ru.kinghp.crudapp.models.Person;
-import ru.kinghp.crudapp.utils.HibernateSessionFactoryUtil;
 
 import java.util.Collection;
 import java.util.List;
